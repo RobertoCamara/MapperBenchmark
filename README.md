@@ -1,7 +1,7 @@
 
-# Análise Comparativa: Mapster vs Operator para Mapeamento de Objetos Complexos em .NET 8
+# Análise Comparativa: Mapster vs Operator para Mapeamento de Objetos em .NET 8
 
-Este projeto tem por finalidade apresentar os resultados de um benchmark detalhado entre dois métodos de mapeamento de objetos complexos no .NET 8: o uso de operators nativos da linguagem (manual mapping) e a biblioteca Mapster. A análise leva em consideração desempenho, legibilidade, manutenção, curva de aprendizado, complexidade e extensibilidade.
+Este projeto tem por finalidade apresentar os resultados de um benchmark detalhado entre dois métodos de mapeamento de objetos no .NET 8: o uso de operators nativos da linguagem (manual mapping) e a biblioteca Mapster. A análise leva em consideração desempenho, legibilidade, manutenção, curva de aprendizado, complexidade e extensibilidade.
 
 ---
 
